@@ -1,0 +1,6 @@
+{
+    "require": {
+        "hassankhan/config": "^2.2",
+        "symfony/yaml": "^5.2"
+    }
+}
